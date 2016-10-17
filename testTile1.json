@@ -1,0 +1,1 @@
+{ "id":1, "area": [-172,76,8,8], "tiling":[-180,84,8,8], "data": { "topo": { "url":"tile8_1_topo.png" }, "alti":{ "url":"tile8_1_alti.png" } } }
