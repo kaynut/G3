@@ -1,0 +1,29 @@
+{
+  "name": "g3",
+  "version": "1.0.0",
+  "description": "g3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaynut/G3.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "kaynut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaynut/G3/issues"
+  },
+  "homepage": "https://github.com/kaynut/G3#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.14",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}
